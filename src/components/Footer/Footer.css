@@ -1,0 +1,26 @@
+.app__footer {
+    width: 100%;
+    padding: 5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0a1c37;
+}
+
+.app__footer h4, .app__footer .section-title {
+    color: white;
+}
+ 
+.app__footer .section-title {
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 992px) {
+    .app__footer .col-lg-4 {
+        text-align: center;
+    }
+
+    .app__footer .col-lg-4:not(:last-child) {
+        margin-bottom: 20px;
+    }
+}

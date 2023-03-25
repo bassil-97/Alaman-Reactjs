@@ -1,0 +1,10 @@
+.app-donation__button {
+    width: 150px;
+    height: 64px;
+    background-color: #ffc629;
+    color: #0a1c37;
+    border-radius: 32px;
+    padding: 1rem 1.5rem;
+    border: none;
+    font-weight: bold;
+}

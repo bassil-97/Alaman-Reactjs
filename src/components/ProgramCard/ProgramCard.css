@@ -1,0 +1,13 @@
+.program-card__container {
+    background-color: #f0f4f7;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.program-card__container .card-title {
+    color: #0a1c37;
+}
+
+.program-card__container .card-img-top {
+    border-radius: 10px;
+}
